@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/HCNtoMoon/HCNtoMoon.github.io/raw/gh-pages/images/about/HCNtoMoon.jpg" width="10%">
+  <img src="https://github.com/HCNtoMoon/HCNtoMoon.github.io/raw/gh-pages/images/about/HCNtoMoon_logo_O_small.png" width="90%">
 </p>
 
 ![喜币上月球 HCN to Moon图片](https://github.com/HCNtoMoon/HCNtoMoon.github.io/raw/gh-pages/images/about/HCNtoMoon.jpg "喜币上月球")
