@@ -1,16 +1,8 @@
 ### Hi there, I’m [HCNtoMoon](https://hcntomoon.github.io/) 👋 
 
 
-<p align="center">
-  <img src="https://github.com/HCNtoMoon/HCNtoMoon.github.io/raw/gh-pages/images/about/HCNtoMoon_logo_O_small.png" width="10%">
-</p>
 
 ![喜币上月球 HCN to Moon图片](https://github.com/HCNtoMoon/HCNtoMoon.github.io/raw/gh-pages/images/about/HCNtoMoon.jpg "喜币上月球")
-
-- 🔭 I’m a HCN supporter absolutely. No Doubt. My goal: Moon! 
-- 🚀️ Website:  [HCNtoMoon](https://hcntomoon.github.io/) (Latest News about HCN, Digital currency, Blockchain, Stock markets, Foreign exchange, Finance and so on)
-- 😄 Follow Me:  [Twitter](https://twitter.com/HCNtoMoon) 、[Gettr](https://gettr.com/user/hcntomoon) 、[Github](https://github.com/HCNtoMoon)
-- 👯 Group Chat:  [DiscordServer](https://discord.gg/HPR3Sfds3a) 
 
 
 <table width="800px">
