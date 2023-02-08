@@ -5,32 +5,20 @@
 ![喜币上月球 HCN to Moon图片](https://github.com/HCNtoMoon/HCNtoMoon.github.io/raw/gh-pages/images/about/HCNtoMoon.jpg "喜币上月球")
 
 
-<table width="800px">
-<tr>
-<td valign="top" width="48%">
 
-![](https://github-readme-stats.vercel.app/api?username=hcntomoon&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-
-
-</td>
-
-
-
-<td valign="top" width="52%">
-
-![](https://activity-graph.herokuapp.com/graph?username=hcntomoon&theme=redical)
-
-
-
-</td>
-</tr>
-
-</table>
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/hcntomoon/count.svg" />
 </p>
+
+
+
+
+
+
+![](https://github-readme-stats.vercel.app/api?username=hcntomoon&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
 
 
 
