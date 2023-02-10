@@ -15,7 +15,7 @@
 
 ![HCNtoMoon](https://github-readme-stats.vercel.app/api?username=hcntomoon&show_icons=true&theme=transparent)
 
-![HCNtoMoon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hcntomoon&layout=compact)
+
 
 
 喜币交流Discord群的邀请链接：[https://discord.gg/HPR3Sfds3a](https://discord.gg/HPR3Sfds3a) ，链接永久有效，欢迎大家加入！
@@ -26,3 +26,4 @@
 
 ![喜币上月球 HCN to Moon图片](https://github.com/HCNtoMoon/HCNtoMoon.github.io/raw/gh-pages/images/about/HCNtoMoon.jpg "喜币上月球")
 
+![HCNtoMoon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hcntomoon&layout=compact)
