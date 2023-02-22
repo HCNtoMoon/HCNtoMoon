@@ -1,4 +1,6 @@
-### Hi there, I’m [HCNtoMoon](https://hcntomoon.github.io/) 👋 
+### Hi there 👋 
+
+- Hello, I'm  [HCNtoMoon](https://hcntomoon.github.io/) 
 
 <div align="center">
   <img data-target="animated-image.replacedImage" alt="HCNtoMoon" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/HCNtoMoon/HCNtoMoon.github.io/gh-pages/images/about/HCNtoMoon_logo.gif?raw=true" width="200" height="200" style="display: block; opacity: 1;">
@@ -13,8 +15,9 @@
 
 
 
-![HCNtoMoon](https://github-readme-stats.vercel.app/api?username=hcntomoon&show_icons=true&theme=transparent)
+[![HCNtoMoon](https://github-readme-stats.vercel.app/api?username=hcntomoon&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hcntomoon&layout=compact&exclude_repo=hcntomoon.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -26,4 +29,4 @@
 
 ![喜币上月球 HCN to Moon图片](https://github.com/HCNtoMoon/HCNtoMoon.github.io/raw/gh-pages/images/about/HCNtoMoon.jpg "喜币上月球")
 
-![HCNtoMoon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hcntomoon&layout=compact)
+
